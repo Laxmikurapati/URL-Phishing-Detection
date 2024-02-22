@@ -59,6 +59,6 @@ The Phishing URL Detection Chrome Extension is designed to enhance online securi
 
 ### Result Screenshots
 
-![Result](img.png)
+![Result](image.png)
 
 
